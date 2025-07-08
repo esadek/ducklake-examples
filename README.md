@@ -9,3 +9,4 @@ A collection of Python notebooks demonstrating DuckLake integration with various
 - [Ibis](examples/ibis.ipynb)
 - [Pointblank](examples/pointblank.ipynb)
 - [PySpark](examples/pyspark.ipynb)
+- [Vega-Altair](examples/vega_altair.ipynb)
