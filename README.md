@@ -7,6 +7,7 @@ A collection of Python notebooks demonstrating DuckLake integration with various
 
 - [DuckDB Python API](examples/duckdb.ipynb)
 - [Ibis](examples/ibis.ipynb)
+- [Narwhals](examples/narwhals.ipynb)
 - [Plotly](examples/plotly.ipynb)
 - [Pointblank](examples/pointblank.ipynb)
 - [PySpark](examples/pyspark.ipynb)
